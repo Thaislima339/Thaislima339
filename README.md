@@ -1,7 +1,7 @@
 👩🏻‍💻 Thais Lima
 
 
-Me chamo Thais Lima, tenho 27 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica Uniamérica. Sou apaixonada por tecnologia e estou em busca de me tornar uma desenvolvedora de backend.
+Me chamo Thais Lima, tenho 28 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica Uniamérica. Sou apaixonada por tecnologia e estou em busca de me tornar uma desenvolvedora de backend.
 
 ### 🤖 Linguagens e Tecnologias
 <img
